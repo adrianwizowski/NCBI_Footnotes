@@ -33,7 +33,7 @@ run module using parse_docx() function for Word files.
 Run function, choose input file and name of output file.
 Function will save both url and footnotes in output file.
 
-### parse_txt()
+### parse_docx()
 Run function, choose input file and name of output file. For safety do not overwrite input file.
 Function will change paragraphs containing urls to scientific footnotes in output file.
 Leading number of a footnote from file (under 1000) will stay in place.
